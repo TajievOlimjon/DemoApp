@@ -1,7 +1,7 @@
 ﻿namespace Domain
 {
-    public class Class1
+    public class Services
     {
-
+        public int MyProperty { get; set; }
     }
 }
