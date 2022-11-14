@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloGit", "HelloGit\HelloGit.csproj", "{EAAE4571-DC91-4712-AEE0-A94251937FBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleGit", "ConsoleGit\ConsoleGit.csproj", "{09D8609B-1AF0-415E-B571-2BBC7133E886}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleGit", "ConsoleGit\ConsoleGit.csproj", "{09D8609B-1AF0-415E-B571-2BBC7133E886}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{F89A3CD3-53CC-40F0-8B4E-7FBCA597FD97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{09D8609B-1AF0-415E-B571-2BBC7133E886}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09D8609B-1AF0-415E-B571-2BBC7133E886}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09D8609B-1AF0-415E-B571-2BBC7133E886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89A3CD3-53CC-40F0-8B4E-7FBCA597FD97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89A3CD3-53CC-40F0-8B4E-7FBCA597FD97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89A3CD3-53CC-40F0-8B4E-7FBCA597FD97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89A3CD3-53CC-40F0-8B4E-7FBCA597FD97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
