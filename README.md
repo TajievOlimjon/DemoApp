@@ -1,1 +1,1 @@
-# Demo App
+# Практикуюс с GitHub
